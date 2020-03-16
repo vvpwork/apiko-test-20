@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  font-family: "sans-serif";
+}
+
+.title {
+  margin-top: 0;
+}
+.wrapper {
+  margin-left: 20px;
+}
+.description {
+  max-width: 300px;
+}

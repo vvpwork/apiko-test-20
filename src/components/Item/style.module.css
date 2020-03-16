@@ -1,0 +1,10 @@
+.container a {
+  text-decoration: none;
+  color: #24282a;
+  font: 600 14px "sans-serif";
+}
+
+.container a:hover {
+  color: #9b122d;
+  transition: all 0.2s ease-in;
+}

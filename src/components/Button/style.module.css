@@ -1,0 +1,21 @@
+.container {
+  box-shadow: none;
+  border: none;
+  outline: none;
+  background: #24282a;
+  padding: 10px 20px;
+  font: 500 18px "sans-serif";
+  color: white;
+}
+
+.container:hover {
+  cursor: pointer;
+  color: #24282a;
+  background: white;
+  transition: all 0.3s linear;
+}
+
+.container:active {
+  background: #24282a;
+  color: white;
+}
